@@ -20,7 +20,7 @@ Análisis de datos de la Encuesta Permanente de Hogares (EPH) para evaluar la re
 <li>El nivel de Educación Especial presenta ingresos promedio y proporciones de subsidio sensiblemente más bajas.</li>
 
 <h2>Contenido del Repositorio📁</h2>
-<li><b>data/</b>: Archivos de datos útiles.</li>
+<li><b>Data/</b>: Archivos de datos útiles.</li>
 <li><b>R/</b>: Scripts de análisis en R.</li>
 <li><b>Informe/</b>: Informe final en formato .pdf.</li>
 
