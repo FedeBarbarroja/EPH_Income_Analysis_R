@@ -24,6 +24,14 @@ Análisis de datos de la Encuesta Permanente de Hogares (EPH) para evaluar la re
 <li><b>R/</b>: Scripts de análisis en R.</li>
 <li><b>Informe/</b>: Informe final en formato .pdf.</li>
 
+<h2>🛠️ Herramientas utilizadas</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge" />
+  <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=ggplot2&logoColor=white" alt="ggplot2 Badge" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio Badge" />
+  <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white" alt="Tidyverse Badge" />
+</div>
+  
 <h2>Requisitos⚙️</h2>
 <li>R versión >= 4.0</li>
 <li>Paquetes: dplyr, ggplot2, qcc, DescTools </li>
