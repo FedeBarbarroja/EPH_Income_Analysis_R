@@ -7,7 +7,7 @@ Cada miembro participó en todas las etapas del análisis: preparación de datos
 <hr>
 
 <h2>Descripción📰</h2>
-Análisis de datos de la Encuesta Permanente de Hogares (EPH) para evaluar la relación entre nivel educativo alcanzado e ingresos en personas de entre 18 y 65 años en Argentina y como se comporta la distribución de subsidios entre niveles educativos alcanzados.
+Análisis de datos de la Encuesta Permanente de Hogares (EPH) para evaluar la relación entre nivel educativo alcanzado e ingresos en personas de entre 18 y 65 años en Argentina y como se comporta la distribución de subsidios entre niveles educativos alcanzados. Hecho en R
 
 <hr>
 
